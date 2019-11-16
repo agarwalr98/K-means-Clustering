@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import random
 
 print("========== K MEANS CLUSTERING ===========\n")
-colors=['red', 'blue', 'green']
+colors=['red', 'blue', 'green','pink','brown','indigo','purple']
 
 file1 = np.loadtxt("Data/Linear/LS_Group03/Class1.txt",delimiter= " ", skiprows=0)
 file2 = np.loadtxt("Data/Linear/LS_Group03/Class2.txt",delimiter= " ", skiprows=0)
